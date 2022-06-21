@@ -4,8 +4,8 @@ from gimpfu import *
 import os
 import subprocess
 
-PYTHON = "C:/Program Files/Python310/python.exe" # change this to your python path
-SWINIR = "C:/Users/TheCa/Code/python/SwinIR" # change this to the path of SwinIR
+PYTHON = "/path/to/python.exe" # change this to your python path
+SWINIR = "/path/to/SwinIR" # change this to the path of SwinIR
 SCRIPT = "main_test_swinir.py"
 TILE = "400" # Tile size. Reduce if you run out of memory.
 
